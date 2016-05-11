@@ -1,0 +1,23 @@
+{
+  "name": "js-kata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viliusl/js-kata.git"
+  },
+  "author": "vilius@wix.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viliusl/js-kata/issues"
+  },
+  "homepage": "https://github.com/viliusl/js-kata#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
